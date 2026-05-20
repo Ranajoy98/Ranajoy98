@@ -1,14 +1,14 @@
 # 💫 About Me:
-<p style="margin:0;">
+<p>
 I am Ranajoy Saha, a Reporting Analyst with 2+ years of professional experience in reporting, dashboard development, and business insights generation. Skilled in working with SQL, Python, Power BI, Tableau, and cloud technologies to build data-driven solutions and automate reporting workflows. Experienced in ETL pipeline development, data cleaning & transformation, and creating interactive dashboards for effective decision-making. Passionate about solving business problems through analytical thinking and modern data tools.
 </p>
 
-<p style="margin:0;"><strong>Backend & Analytics Tools :</strong> Python, SQL, PySpark</p>
-<p style="margin:0;"><strong>Data Visualization :</strong> Power BI, Tableau, Excel</p>
-<p style="margin:0;"><strong>Python Libraries :</strong> Pandas, NumPy, SciPy, Matplotlib</p>
-<p style="margin:0;"><strong>Databases :</strong> SQL Server, MySQL</p>
-<p style="margin:0;"><strong>Cloud & Data Engineering :</strong> AWS (S3, EC2, AWS Glue)</p>
-<p style="margin:0;"><strong>Tools & Platforms :</strong> Git/GitHub, Microsoft 365</p>
+<p><strong>Backend & Analytics Tools :</strong> Python, SQL, PySpark<br>
+<strong>Data Visualization :</strong> Power BI, Tableau, Excel<br>
+<strong>Python Libraries :</strong> Pandas, NumPy, SciPy, Matplotlib<br>
+<strong>Databases :</strong> SQL Server, MySQL<br>
+<strong>Cloud & Data Engineering :</strong> AWS (S3, EC2, AWS Glue)<br>
+<strong>Tools & Platforms :</strong> Git/GitHub, Microsoft 365</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranajoy-saha-4900321b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranajoy5saha@gmail.com) 
