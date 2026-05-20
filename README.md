@@ -2,17 +2,11 @@
 <p>
 I am Ranajoy Saha, a Reporting Analyst with 2+ years of professional experience in reporting, dashboard development, and business insights generation. Skilled in working with SQL, Python, Power BI, Tableau, and cloud technologies to build data-driven solutions and automate reporting workflows. Experienced in ETL pipeline development, data cleaning & transformation, and creating interactive dashboards for effective decision-making. Passionate about solving business problems through analytical thinking and modern data tools.
 </p>
-
 <p><strong>Backend & Analytics Tools :</strong> Python, SQL, PySpark</p>
-
 <p><strong>Data Visualization :</strong> Power BI, Tableau, Excel</p>
-
 <p><strong>Python Libraries :</strong> Pandas, NumPy, SciPy, Matplotlib</p>
-
 <p><strong>Databases :</strong> SQL Server, MySQL</p>
-
 <p><strong>Cloud & Data Engineering :</strong> AWS (S3, EC2, AWS Glue)</p>
-
 <p><strong>Tools & Platforms :</strong> Git/GitHub, Microsoft 365</p>
 
 ## 🌐 Socials:
